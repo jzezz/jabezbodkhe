@@ -23,5 +23,5 @@
 ### 📫 Let’s Connect!
 - 📧 [jabezb2005@gmail.com]
 - 🔗 [LinkedIn](www.linkedin.com/in/jabez-bodkhe)
-- 🌐 Portfolio: [jabezbodkhe.github.io](https://jabezbodkhe.github.io)
+
 
